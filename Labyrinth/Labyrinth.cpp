@@ -1,5 +1,6 @@
 // POP 2015-12-22 projekt 1 Wierzbicki Jacek EIT
-// u¿yty IDE/kompilator: Dev-C++ 5.6.0
+// u¿yte IDE: Dev-C++ 5.6.0
+#include "stdafx.h" // for MS Visual Studio
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
